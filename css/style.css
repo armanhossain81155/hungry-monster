@@ -41,10 +41,7 @@ button{
 cursor: pointer ;
 
 }
-.random-btn{
-  cursor: pointer;
-  margin-left: 12px;
-}
+
 .meals{
   display: grid;
   grid-template-columns: repeat(4, 1fr) ;
